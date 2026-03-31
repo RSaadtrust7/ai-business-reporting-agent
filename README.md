@@ -15,7 +15,7 @@ Upload any business CSV (sales, finance, operations) and the agent automatically
 
 ## Demo
 
-![App Screenshot](https://raw.githubusercontent.com/placeholder/screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/placeholder/business_report_demo.png)
 
 ---
 
